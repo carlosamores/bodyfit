@@ -1,4 +1,4 @@
-#labels MinutaSegundaReunion-Ent01_Minuta02
+#labels p
 Proyecto:
 Gestión Gimnasio
 
