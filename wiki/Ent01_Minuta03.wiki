@@ -1,4 +1,4 @@
-#labels Phase-Design,Minuta03
+#labels Featured,Minuta03
 Ent01_Minuta03
 = Proyecto: Gestión Gimnasio =
 
