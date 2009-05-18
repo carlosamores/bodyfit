@@ -20,5 +20,5 @@ Logros a la fecha
 - Instalación de la Aplicación NetBeans para la elaboración de algunos Diagramas planteados en la segunda entrega
 - Identificación de los casos de uso a utilizar para el desarrollo de la segunda entrega
 
-Objetivos para la próxima reunión Plan de actividades
+== Objetivos para la próxima reunión Plan de actividades  ==
 - Elaboración de Diagrama de Clases 
