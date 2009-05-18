@@ -11,7 +11,8 @@ Participantes: Luisa Fernanda Quintero G
 
 Duración: 3 horas 
 
-Resumen del seguimiento de las actividades:
+== Resumen del seguimiento de las actividades:  ==
+
 Identificación de los Casos de Uso a tomar como referencia para la elaboración de la segunda parte del Proyecto.
 
 Logros a la fecha 
