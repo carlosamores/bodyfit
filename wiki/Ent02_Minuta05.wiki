@@ -1,4 +1,4 @@
-Proyecto: Gestión Gimnasio
+= Proyecto: Gestión Gimnasio =
 Documento: Reporte de seguimiento de reunión periódica 
 
 Numero de reunión: 3 
